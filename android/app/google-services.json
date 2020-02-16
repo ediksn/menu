@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910633512052",
+    "firebase_url": "https://menu-c6e35.firebaseio.com",
+    "project_id": "menu-c6e35",
+    "storage_bucket": "menu-c6e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910633512052:android:74d8c07a660fa2c7f93521",
+        "android_client_info": {
+          "package_name": "com.micronetdominicana.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910633512052-21rgneveo90tuen83ufu0m4816buhg9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWL69vxPC6jXQGnv6Pq2uylmq1n9MkIv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910633512052-21rgneveo90tuen83ufu0m4816buhg9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
